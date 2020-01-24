@@ -16,11 +16,12 @@ def line(array)
        result = "The line is currently: #{count}. #{name}"
         
       count +=1
-       puts result
+       
   end  
    
   
-  end     
+  end 
+  puts result
 end
   
  # elsif array.length != count
