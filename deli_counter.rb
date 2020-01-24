@@ -18,7 +18,7 @@ def line(array)
   end  
       
   end     
-  
+end
   
  # elsif array.length != count
   
