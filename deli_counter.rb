@@ -1,6 +1,6 @@
 # Write your code here.
  
-def line(array)
+#def line(array)
  # count = 1
   
 #  result=""
@@ -42,11 +42,3 @@ def line(array)
   
 #end 
 
-
-def take_a_number
-  
-end 
-
-def now_serving
-  
-      end
