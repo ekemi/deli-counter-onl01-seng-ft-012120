@@ -6,19 +6,21 @@ def line(array)
   if array.length == 0 
     
        puts "The line is currently empty."
+       
+  end     
   
-  elsif array.length != count
+ # elsif array.length != count
   
-      array.each do |name|
+     # array.each do |name|
         
-        puts "The line is currently: #{count}. #{name}"
+       # puts "The line is currently: #{count}. #{name}"
         
-        count +=1
+       # count +=1
 
-      end
-  end  
+     # end
+#  end  
   
-end 
+#end 
 
 
 def take_a_number
