@@ -4,6 +4,7 @@ def line(array)
   count = 1
   new_arr =[]
   result=[]
+  katz_deli =[]
   
   if array.length == 0 
     
@@ -16,10 +17,10 @@ def line(array)
        result = "The line is currently: #{count}. #{name}"
         
       count +=1
-       
+       katz_deli << result
       end  
    
-     puts result
+     puts katz_deli
   end 
   
 end
