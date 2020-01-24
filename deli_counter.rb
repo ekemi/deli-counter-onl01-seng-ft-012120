@@ -3,7 +3,7 @@
 def line(array)
   count = 1
   new_arr =[]
-  result=[]
+  result=""
   katz_deli =[]
   
   if array.length == 0 
