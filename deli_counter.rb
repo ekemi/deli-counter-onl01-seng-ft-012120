@@ -2,9 +2,9 @@
  
 def line(array)
   count = 1
-  new_arr =[]
+  
   result=""
-  katz_deli =[]
+  katz_deli =""
   
   if array.length == 0 
     
@@ -20,7 +20,7 @@ def line(array)
        katz_deli << result
       end  
    
-      katz_deli
+    puts  katz_deli
   end 
   
 end
