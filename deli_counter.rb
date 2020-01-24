@@ -2,7 +2,7 @@
  
 def line(array)
   count = 1
-  new_arr
+  new_arr =[]
   
   if array.length == 0 
     
