@@ -8,8 +8,13 @@ def line(array)
     
        puts "The line is currently empty."
        
-       
-    else 
+  else # array.length != count
+  
+     array.each do |name|
+        
+       puts "The line is currently: #{count}. #{name}"
+        
+      count +=1
   end  
       
   end     
