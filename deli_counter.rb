@@ -1,22 +1,22 @@
 # Write your code here.
  
 def line(array)
-  count = 1
+ # count = 1
   
-  result=""
-  katz_deli =[]
+#  result=""
+#  katz_deli =[]
   
-  if array.length == 0 
+ # if array.length == 0 
     
-       puts "The line is currently empty."
+      # puts "The line is currently empty."
        
-  else # array.length != count
+ # else # array.length != count
   
-     array.each do |name|
+    # array.each do |name|
        
-       result_name = "#{name}"
-      end 
-      puts result_name  
+    #   result_name = "#{name}"
+     # end 
+     # puts result_name  
        #result = "The line is currently: #{count}. #{name}"
         
       #count +=1
@@ -27,8 +27,8 @@ def line(array)
    # puts  katz_deli
   #end 
   
-end
- end 
+#end
+ #end 
  # elsif array.length != count
   
      # array.each do |name|
