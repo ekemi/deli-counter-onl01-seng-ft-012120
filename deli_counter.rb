@@ -14,8 +14,9 @@ def line(array)
   
      array.each do |name|
        
-       result_name = "{"
-        
+       result_name = "#{name}"
+      end 
+      puts result_name  
        #result = "The line is currently: #{count}. #{name}"
         
       #count +=1
