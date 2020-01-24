@@ -19,7 +19,7 @@ def line(array)
        
   end  
    
-  result
+return  result
   end 
   
 end
