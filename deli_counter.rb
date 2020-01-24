@@ -13,16 +13,18 @@ def line(array)
   else # array.length != count
   
      array.each do |name|
+       
+       result_name = "{"
         
-       result = "The line is currently: #{count}. #{name}"
+       #result = "The line is currently: #{count}. #{name}"
         
-      count +=1
+      #count +=1
       
       
-      end  
-    katz_deli << result
-    puts  katz_deli
-  end 
+      #end  
+   # katz_deli << result
+   # puts  katz_deli
+  #end 
   
 end
   
