@@ -12,11 +12,12 @@ def line(array)
   
      array.each do |name|
         
-       puts "The line is currently: #{count}. #{name}"
+       result = "The line is currently: #{count}. #{name}"
         
       count +=1
   end  
-      
+   result
+   
   end     
 end
   
