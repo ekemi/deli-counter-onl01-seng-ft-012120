@@ -14,7 +14,7 @@ def line(array)
   
      array.each do |name|
         
-       result = "The line is currently: #{count}. #{name}"
+       result = #{count}. #{name}"
         
       count +=1
        katz_deli << result
