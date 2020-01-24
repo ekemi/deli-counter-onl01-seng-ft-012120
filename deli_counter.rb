@@ -4,7 +4,7 @@ def line(array)
   count = 1
   
   result=""
-  katz_deli =""
+  katz_deli =[]
   
   if array.length == 0 
     
@@ -14,12 +14,13 @@ def line(array)
   
      array.each do |name|
         
-       result = #{count}. #{name}"
+       result = "The line is currently: #{count}. #{name}"
         
       count +=1
-       katz_deli << result
+      
+      
       end  
-   
+    katz_deli << result
     puts  katz_deli
   end 
   
