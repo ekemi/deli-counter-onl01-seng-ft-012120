@@ -20,7 +20,7 @@ def line(array)
        katz_deli << result
       end  
    
-     puts katz_deli
+      katz_deli
   end 
   
 end
