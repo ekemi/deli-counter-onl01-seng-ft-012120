@@ -7,7 +7,10 @@ def line(array)
     
        puts "The line is currently empty."
        
+       end 
+       
   end     
+  
   
  # elsif array.length != count
   
