@@ -16,10 +16,10 @@ def line(array)
        result = "The line is currently: #{count}. #{name}"
         
       count +=1
-      
+       puts result
   end  
    
-   puts result
+  
   end     
 end
   
