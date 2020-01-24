@@ -17,9 +17,9 @@ def line(array)
         
       count +=1
        
-  end  
+      end  
    
-return  result
+puts result
   end 
   
 end
