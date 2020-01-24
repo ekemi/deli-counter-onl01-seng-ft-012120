@@ -21,7 +21,7 @@ def line(array)
    
 puts result
   end 
-  
+  puts result
 end
   
  # elsif array.length != count
